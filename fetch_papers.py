@@ -1,3 +1,4 @@
+print("=== NEW VERSION ===")
 import os
 import smtplib
 import arxiv
