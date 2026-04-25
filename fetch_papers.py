@@ -12,7 +12,7 @@ from difflib import SequenceMatcher
 # ========== Configuration ==========
 
 # arXiv search configuration
-CATEGORIES = [ 
+CATEGORIES =  [
     'q-bio.*',
     'physics.bio-ph',
     'physics.med-ph',
